@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KoshanK-del
-- 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Cybersecurity 
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
